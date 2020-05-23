@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/main.css" type="text/css">
-    <title>About Us! - Ekiti State Chapter</title>
+    <title>About Me!</title>
 </head>
 <body>
     <!--<div class="overlay"></div>-->
@@ -16,7 +16,7 @@
   <a href="#about.php">About Me</a>
   <a href="resume">Resume</a>
   <a href="graphics.php">Graphics</a>
-    <a href="#Contact">Contact Us</a>
+    <a href="#Contact">Contact Me</a>
   <a href="details/register.php">Register</a>
   <a href="details/login.php">LogIn</a>
   <div class="menu-btn icon">

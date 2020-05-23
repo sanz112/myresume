@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/main.css" type="text/css">
-    <title>Graphics</title>
+    <title>My Graphics</title>
 </head>
 <style>
 
@@ -118,9 +118,9 @@ img {
     <div class="topnav" id="myTopnav">
   <a href="index.php" class="active">Home</a>
   <a href="about.php">About Me</a>
-    <a href="#Contact">Contact Us</a>
+    <a href="#Contact">Contact Me</a>
     <a href="resume">Resume</a>
-    <a href="#graphics.php">Graphics</a>
+    <a href="#graphics">Graphics</a>
   <a href="details/register.php">Register</a>
   <a href="details/login.php">LogIn</a>
   <div class="menu-btn icon">
@@ -166,7 +166,7 @@ img {
          }
         </style>
         <main id="aboutnew">
-<h2 style="text-align:center">My Graphics Design</h2>
+<h3 style="text-align:center">Some of my Graphics Design</h3>
 
 <div class="container">
   <div class="mySlides">
