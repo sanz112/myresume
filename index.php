@@ -53,8 +53,11 @@
             <a href="https://www.twitter.com/TobiDeveloper">
                 <i class="fab fa-twitter fa-2x"></i>
             </a>
-            <a href="https://www.">
+            <a href="https://www.facebook.com/witt.technologies">
                 <i class="fab fa-facebook fa-2x"></i>
+            </a>
+            <a href="https://www.instagram.com/wittstack">
+                <i class="fab fa-instagram fa-2x"></i>
             </a>
         </div>
     </main>
